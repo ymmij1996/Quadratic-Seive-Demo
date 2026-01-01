@@ -1,5 +1,22 @@
-# Quadratic-Seive-Demo
-simpe demo for quadratic seive factoring algorithm
+## Quadratic Sieve
+
+Implemented an educational Quadratic Sieve factorization algorithm in C++ using
+Boost multiprecision integers.
+
+Highlights:
+- Big integer arithmetic
+- Factor base construction
+- Smooth number detection
+- Gaussian elimination
+
+Limitations:
+- Not optimized for large semiprimes
+- No large-prime variation
+
+Purpose:
+Built to deeply understand cryptographic foundations and number theory used
+in RSA security.
+
 
 <h2> How to build</h2>
 
