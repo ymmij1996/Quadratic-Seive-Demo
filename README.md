@@ -21,7 +21,7 @@ in RSA security.
 <h2> How to build</h2>
 
   ```sh
-  // instill boost lib first
+  // install boost lib first
   sudo apt update
   sudo apt install libboost-all-dev
   ```
